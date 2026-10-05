@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hritik%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Hritik%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# 👋 Hello, I'm Hritik Kumar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hello%2C+I'm+Hritik+Kumar;CSE+Student+%E2%80%A2+Developer+%E2%80%A2+DSA+Learner;Building+ideas+into+real+projects...;Learning+React+%26+modern+web+development;Always+learning+%F0%9F%9A%80" />
 
-### CSE Student • Developer • DSA Learner
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+projects...;Learning+new+technologies...;Improving+DSA+skills...;Exploring+React+%26+Web+Development...;Always+learning+%F0%9F%9A%80" />
+<img src="https://komarev.com/ghpvc/?username=Hritikkumar-2543&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -20,26 +20,23 @@ problem solving and learning new technologies.
 - 🎓 Computer Science Engineering Student
 - 💻 Interested in Software Development
 - 🧠 Practicing Data Structures & Algorithms
-- 🌱 Currently learning React
+- ⚛️ Currently learning React
 - 🚀 Building projects and improving every day
 - 🔍 Curious about how technology works
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,git,github" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,git,github&perline=9" />
 
-</div>
+<br><br>
 
-### 📚 Core Skills
-
-<div align="center">
-
-`C` • `Java` • `Python` • `JavaScript` • `HTML` • `CSS`  
-`React` • `DSA` • `Git` • `GitHub`
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-203A43?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web-Development-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Programming-Core-0F2027?style=for-the-badge" />
 
 </div>
 
@@ -49,13 +46,7 @@ problem solving and learning new technologies.
 
 <div align="center">
 
-| Technology | Focus |
-|---|---|
-| ⚛️ React | Frontend Development |
-| 🧠 DSA | Problem Solving |
-| ☕ Java | OOP & Programming |
-| 🐍 Python | Programming & Logic |
-| 🌐 JavaScript | Web Development |
+`⚛️ React` &nbsp; `🧠 DSA` &nbsp; `☕ Java` &nbsp; `🐍 Python` &nbsp; `🌐 JavaScript`
 
 </div>
 
@@ -67,17 +58,14 @@ problem solving and learning new technologies.
 
 ### 🌐 Personal Portfolio
 
-A personal website showcasing my skills,
-projects and learning journey.
+A personal website showcasing my skills, projects and learning journey.
 
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
+**Tech Stack:** `HTML` • `CSS` • `JavaScript`
 
 <br>
 
 <a href="https://github.com/Hritikkumar-2543">
-<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -86,28 +74,12 @@ projects and learning journey.
 
 ## 🎯 2026 Goals
 
-- 📌 Improve my DSA problem-solving skills
+- 🧠 Improve DSA problem-solving skills
 - ⚛️ Become comfortable with React
 - 🚀 Build more real-world projects
 - 💻 Contribute to open-source projects
-- 🧠 Strengthen my programming fundamentals
+- 📚 Strengthen programming fundamentals
 - 🌱 Learn something new every day
-
----
-
-## 💻 Coding & Development
-
-<div align="center">
-
-<a href="https://github.com/Hritikkumar-2543">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hritik-kumar-5857963a8">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
 
 ---
 
@@ -115,9 +87,9 @@ projects and learning journey.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hritikkumar-2543&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hritikkumar-2543&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritikkumar-2543&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritikkumar-2543&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 
 </div>
 
@@ -133,17 +105,7 @@ projects and learning journey.
 
 ---
 
-## 📈 My GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hritikkumar-2543&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -153,11 +115,64 @@ projects and learning journey.
 
 ---
 
-## 📌 What I'm Working On
+## 📈 My GitHub Contributions
 
-```text
-🌐 Personal Portfolio
-⚛️ React Development
-🧠 Data Structures & Algorithms
-💻 Programming Projects
-📚 Continuous Learning
+<div align="center">
+
+<p><b>My contribution activity is tracked directly on my GitHub profile.</b></p>
+
+<a href="https://github.com/Hritikkumar-2543">
+<img src="https://img.shields.io/badge/VIEW%20MY%20REAL%20CONTRIBUTIONS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💻 What I'm Working On
+
+<div align="center">
+
+| 🚀 Area | 📌 Focus |
+|---|---|
+| ⚛️ React | Frontend Development |
+| 🧠 DSA | Problem Solving |
+| 🌐 Web | Modern Websites |
+| ☕ Java | OOP & Programming |
+| 🐍 Python | Programming & Logic |
+
+</div>
+
+---
+
+## 💡 Developer Mindset
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Improve;Small+progress+every+day+%F0%9F%9A%80;Turning+ideas+into+real+projects+%F0%9F%92%BB" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Hritikkumar-2543">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hritik-kumar-5857963a8">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=58A6FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing" />
+
+</div>
