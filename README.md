@@ -39,12 +39,9 @@ problem solving and learning new technologies.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<table>
-<tr>
-
-<td width="50%">
+<div align="center">
 
 ### 🌐 Personal Portfolio
 
@@ -53,21 +50,7 @@ projects and learning journey.
 
 **Tech:** HTML • CSS • JavaScript
 
-</td>
-
-<td width="50%">
-
-### 🚗 Smart Car Parking
-
-An IoT-based parking system designed to
-manage parking slots automatically.
-
-**Tech:** Arduino • ESP32 • Sensors
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -83,11 +66,11 @@ manage parking slots automatically.
 
 ---
 
-## 🐍 Contributions
+## 📈 My GitHub Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hritikkumar-2543&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
