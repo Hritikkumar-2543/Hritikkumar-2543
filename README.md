@@ -1,6 +1,10 @@
 <div align="center">
 
+<!-- Animated Header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Hritik%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<!-- Typing Animation -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hello%2C+I'm+Hritik+Kumar;CSE+Student+%E2%80%A2+Developer+%E2%80%A2+DSA+Learner;Building+ideas+into+real+projects...;Learning+React+%26+modern+web+development;Always+learning+%F0%9F%9A%80" />
 
@@ -119,11 +123,19 @@ A personal website showcasing my skills, projects and learning journey.
 
 <div align="center">
 
-<p><b>My contribution activity is tracked directly on my GitHub profile.</b></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hritikkumar-2543&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<a href="https://github.com/Hritikkumar-2543">
-<img src="https://img.shields.io/badge/VIEW%20MY%20REAL%20CONTRIBUTIONS-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
+
+<br>
+
+<div align="center">
+
+### 🐍 Contribution Activity
+
+<!-- This uses your actual GitHub contribution data -->
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
